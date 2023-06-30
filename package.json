@@ -1,0 +1,19 @@
+{
+  "name": "teste_mods",
+  "version": "1.0.0",
+  "description": "FTB Modpack Downloader",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "vitest",
+    "start": "node ./main.js"
+  },
+  "author": "Arthur Von Groll dos Santos",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "node-fetch": "^3.3.1",
+    "prompt-sync": "^4.2.0",
+    "vitest": "^0.32.2"
+  }
+}

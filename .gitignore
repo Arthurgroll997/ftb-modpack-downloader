@@ -1,0 +1,4 @@
+test/
+modpack/
+.env
+node_modules/
